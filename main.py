@@ -1,4 +1,7 @@
-print("hello World")
-a = 5
-b = 6
-print(a+b)
+print("привет как дела?")
+a=5
+b=4
+if a==b:
+    
+    print(a)
+else: print (b)
